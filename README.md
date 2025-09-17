@@ -32,4 +32,6 @@ I’m a software developer who enjoys building things that people actually use. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-![Snake animation](https://github.com/taghi-yassin-official/taghi-yassin-official/blob/output/github-contribution-grid-snake.svg)
+<br clear="both">
+
+![Pac-Man graph](https://raw.githubusercontent.com/taghi-yassin-official/taghi-yassin-official/output/pacman-contribution-graph.svg)
