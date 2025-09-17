@@ -34,4 +34,8 @@ I’m a software developer who enjoys building things that people actually use. 
 
 <br clear="both">
 
-![Pac-Man graph](https://raw.githubusercontent.com/taghi-yassin-official/taghi-yassin-official/output/pacman-contribution-graph.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taghi-yassin-official/taghi-yassin-official/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taghi-yassin-official/taghi-yassin-official/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/taghi-yassin-official/taghi-yassin-official/output/pacman-contribution-graph.svg">
+</picture>
