@@ -1,7 +1,7 @@
-## 👋 Hi, I’m YASSIN TAGHI
+<h2>👋 Hi, I’m YASSIN TAGHI</h2>
 I’m a software developer who enjoys building things that people actually use. I created Textiar, a platform where anyone can share knowledge and personal insights in a simple text-based format. I like working with Python and Django, and I’m always curious about how technology can make life a little simpler.
 
-<h3 align="center">My Skills</h3>
+<h2>⚡ My Skills</h2>
 
 ###
 <div align="center">
@@ -32,7 +32,7 @@ I’m a software developer who enjoys building things that people actually use. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-<br clear="both">
+<h2>👻 Pac-Man Contribution Graph Game</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taghi-yassin-official/taghi-yassin-official/output/pacman-contribution-graph-dark.svg">
